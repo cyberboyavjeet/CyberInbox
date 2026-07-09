@@ -20,7 +20,9 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173"
+        "http://localhost:5173",
+        "https://cyber-inbox.vercel.app",
+        "https://cyber-inbox-8w8tvwol1-cyberboyavjeets-projects.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

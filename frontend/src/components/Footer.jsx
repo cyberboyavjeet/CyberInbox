@@ -19,7 +19,7 @@ function Footer() {
                     <div className="text-right">
 
                         <p className="text-sm text-slate-300 font-medium">
-                            Developed by <span className="text-blue-400">Avjeet Singh</span>
+                            Developed by <span className="text-blue-400">Avjeet Kumar</span>
                         </p>
 
                         <p className="text-xs text-slate-500 mt-1">

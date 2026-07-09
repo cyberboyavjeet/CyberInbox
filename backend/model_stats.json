@@ -1,0 +1,54 @@
+{
+    "dataset": {
+        "ham": 2288,
+        "spam": 1119
+    },
+    "model": {
+        "accuracy": 97.36,
+        "precision": 99.05,
+        "recall": 92.86,
+        "f1_score": 95.85
+    },
+    "keywords": [
+        {
+            "word": "jul",
+            "count": 2511
+        },
+        {
+            "word": "email",
+            "count": 2197
+        },
+        {
+            "word": "nbsp",
+            "count": 1629
+        },
+        {
+            "word": "may",
+            "count": 1531
+        },
+        {
+            "word": "mon",
+            "count": 1503
+        },
+        {
+            "word": "free",
+            "count": 1455
+        },
+        {
+            "word": "aug",
+            "count": 1414
+        },
+        {
+            "word": "sep",
+            "count": 1250
+        },
+        {
+            "word": "tue",
+            "count": 1218
+        },
+        {
+            "word": "smtp",
+            "count": 1165
+        }
+    ]
+}
